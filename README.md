@@ -46,8 +46,8 @@
 
 **Related links:**
 * I've developed the administration system for [Hoje é Aonde?](https://www.linkedin.com/posts/lucoiso_microsoft-aws-windowsappsdk-activity-6890791042874949632-Y4lS?utm_source=linkedin_share&utm_medium=member_desktop_web) project;
-* I was responsible for the development of the [GUMA registration management system (_Brazilian Page_)](https://www.maisregiao.com.br/noticia/51505/estudantes-de-engenharia-desenvolvem-aplicativo-e-sistema-para-o-guma?fbclid=IwAR1Q7fDft6d5ujDeSlFLUwacsSG_9GWdeShNUBrPcjw_izaskevOqSJgtLo);
-* I've developed a application that performs compression and resizing of selected images: [Lucompressor](https://github.com/lucoiso/Lucompressor);
+* I was responsible for the development of the [GUMA registration management system](https://www.maisregiao.com.br/noticia/51505/estudantes-de-engenharia-desenvolvem-aplicativo-e-sistema-para-o-guma?fbclid=IwAR1Q7fDft6d5ujDeSlFLUwacsSG_9GWdeShNUBrPcjw_izaskevOqSJgtLo) (_Brazilian Page_);
+* I've developed a application that performs compression and resizing of selected images and demonstrates interoperability between different programming languages: [Lucompressor](https://github.com/lucoiso/Lucompressor);
 
 ------------------------------------------
 
