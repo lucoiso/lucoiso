@@ -4,6 +4,12 @@
 
 **Developer with experience in C/C++ and its updates (C++11/14/17/20/latest), C#/.NET and a real lover of **Unreal Engine**.**
 
+**Other profiles:**
+* [LinkedIn](https://www.linkedin.com/in/lucoiso/)
+* [Epic Developer](https://dev.epicgames.com/community/profile/4ePp/lucoiso/)
+* [Unreal Engine Marketplace](https://unrealengine.com/marketplace/en-US/profile/Lucoiso)
+* [Email](mailto:contatolukevboas@gmail.com)
+
 ## Game development informations
 
 ![HighresScreenshot00000](https://user-images.githubusercontent.com/77353979/165668889-37699f38-0c51-4a4c-be94-830a6df32e5c.png)
