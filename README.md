@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/77353979/165665212-d0701a6d-f303-4b76-aa4e-bf8bf2b6361c.png)
 
-**Developer with experience in C/C++ and its updates (C++11/14/17/20/latest), C#/.NET and a real lover of **Unreal Engine**.**
+**Developer with experience in C/C++, C#/.NET and a real lover of **Unreal Engine**.**
 
 **Other profiles:**
 * [LinkedIn](https://www.linkedin.com/in/lucoiso/)
