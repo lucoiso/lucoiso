@@ -1,4 +1,4 @@
-# 👽 Lucas Vilas-Boas
+# 👽 Lucas Vilas-Bôas
 
 ![image](https://user-images.githubusercontent.com/77353979/165665212-d0701a6d-f303-4b76-aa4e-bf8bf2b6361c.png)
 
