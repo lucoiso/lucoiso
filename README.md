@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/77353979/165665212-d0701a6d-f303-4b76-aa4e-bf8bf2b6361c.png)
 
-**Control and Automation engineer experienced in C/C++ and a real lover of Unreal Engine.**  
+**Control and Automation Engineer experienced in C/C++ and a real lover of Unreal Engine.**  
 
 
 > 🔗 **Other profiles:**
