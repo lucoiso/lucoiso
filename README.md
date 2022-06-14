@@ -13,7 +13,7 @@
 
 ## 🎮 Game development
 
-**I have high experience with Unreal Engine development, having developed plugins and worked with simple and complex features, such as:**
+**I have experience with Unreal Engine development, having developed plugins and worked with simple and complex features, such as:**
 * Gameplay Ability System;
 * Epic Online Services;
 * Modular game frameworks;
