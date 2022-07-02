@@ -47,18 +47,12 @@
 
 ## ☁️ Cloud services
 
-**Amazon Web Services (AWS) experiences:** 
-* S3;
-* DynamoDB;
-* Cognito;
-* SNS
-* et cetera.  
-
-**Microsoft Azure experiences:** 
-* Cognitive Services: Speech;
-* Custom Vision;
-* Computer Vision;
-* et cetera.  
+| Amazon Web Services (AWS) | Microsoft Azure |
+| --------------- | --------------- |
+| S3 | Cognitive Services: Speech |
+| DynamoDB | Custom Vision |
+| Cognito | Computer Vision |
+| others | others |
 
 -----------------------------
 
