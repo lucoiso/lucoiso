@@ -1,9 +1,8 @@
 # 👽 Lucas Vilas-Bôas
 
-![image](https://user-images.githubusercontent.com/77353979/165665212-d0701a6d-f303-4b76-aa4e-bf8bf2b6361c.png)
+[<img align="right" width="600" src="https://github-readme-stats.vercel.app/api?username=lucoiso&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>](https://github.com/lucoiso/) 
 
-**Control and Automation Engineer experienced in C/C++ and a real lover of Unreal Engine.**  
-
+**Control and Automation Engineer experienced in C/C++ and a real lover of Unreal Engine.**
 
 > 🔗 **Other profiles:**
 >* 👨🏻‍💼 [LinkedIn](https://www.linkedin.com/in/lucoiso/)
