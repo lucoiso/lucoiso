@@ -1,6 +1,6 @@
 # 👽 Lucas Vilas-Bôas
 
-[<img align="right" width="600" src="https://github-readme-stats.vercel.app/api?username=lucoiso&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>](https://github.com/lucoiso/) 
+[<img width="500" src="https://github-readme-stats.vercel.app/api?username=lucoiso&include_all_commits=true&count_private=true&show_icons=true&theme=dark"/>](https://github.com/lucoiso/) 
 
 **Control and Automation Engineer experienced in C/C++ and a real lover of Unreal Engine.**
 
