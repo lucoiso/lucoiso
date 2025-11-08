@@ -4,7 +4,7 @@
 
 ## About
 
-Software Engineer specialized in modern C++ (C++23) with strong experience in tools and engine development.
+Software Engineer specialized in modern C++ with strong experience in tools and engine development.
 Skilled in Qt (Widgets/QML), Unreal Engine (plugin and tools development), and low-level systems programming focused on performance and maintainability.
 
 Currently working as a Tools Programmer at Saber Interactive, designing and maintaining internal tools that streamline workflows across multiple game production teams.
