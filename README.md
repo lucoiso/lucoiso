@@ -2,7 +2,7 @@
 
 [<img width="420" src="https://github-readme-stats.vercel.app/api?username=lucoiso&include_all_commits=true&count_private=true&show_icons=true&theme=dark">](https://github.com/lucoiso/) 
 
-## About
+## [About](https://github-portfolio-viewer-190177625539.us-west1.run.app/)
 
 Software Engineer specialized in modern C++ with strong experience in tools and engine development.
 Skilled in Qt (Widgets/QML), Unreal Engine (plugin and tools development), and low-level systems programming focused on performance and maintainability.
